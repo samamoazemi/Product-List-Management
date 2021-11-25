@@ -1,0 +1,15 @@
+.ProductList{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+margin: 30px auto;
+height: 60px;
+width: 80%;
+background-color: #e3defc;
+border-radius: 8px;
+}
+.nameProduct{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(85, 84, 84);;
+}

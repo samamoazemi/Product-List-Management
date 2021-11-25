@@ -1,0 +1,46 @@
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-weight: bold;
+  color: rgb(97, 96, 96);
+
+}
+.AddProducts {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e3defc;
+    margin: 20px auto 60px auto;
+    height: 80px;
+    width: 80%;
+    border-radius: 8px;
+}
+.inputProduct{
+ height: 30px;
+ margin: auto 30px auto 5px;
+ border: 1px solid rgb(190, 190, 190);
+ border-radius: 4px;
+}
+.selectProduct{
+  height: 30px;
+  margin: auto 40px auto 5px;
+  border: 1px solid rgb(190, 190, 190);
+  border-radius: 4px;
+  padding: 0 10px;
+
+}
+.buttonProduct{
+  height: 30px;
+  border: none;
+  border-radius: 4px;
+  padding: 0 10px;
+  background-color: #c4bce7;
+
+}
+.labelProduct{
+   font-size: 17px;
+    font-weight: bold;
+    color: rgb(85, 84, 84);
+}

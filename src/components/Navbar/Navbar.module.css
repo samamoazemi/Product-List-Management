@@ -1,0 +1,13 @@
+.Navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cfc7f3;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    height: 60px;
+    width: 100%;
+}
+.Navbar h2{
+    color: rgb(77, 76, 76);
+
+}
